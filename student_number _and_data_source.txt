@@ -1,2 +1,0 @@
-student_number: 24284209
-data_source: property sale register
